@@ -1,33 +1,33 @@
-##🚀 Features
--✅ Finance Tracking
+# 🚀 Features
+- ✅ Finance Tracking
 
--Add Income & Expense records
+- Add Income & Expense records
 
--Select categories
+- Select categories
 
--Add optional descriptions
+- Add optional descriptions
 
--Data stored via LocalStorage
+- Data stored via LocalStorage
 
--View, manage, and delete transactions in a clean history table
+- View, manage, and delete transactions in a clean history table
 
 ---
 
-#📊 Summary Cards
+# 📊 Summary Cards
 
--Total Income
+- Total Income
 
--Total Expense
+- Total Expense
 
--Net Balance
+- Net Balance
 
--Each card includes:
+- Each card includes:
 
 -Color-coded indicators
 
---🟢 Green for income
+-- 🟢 Green for income
 
---🔴 Red for expenses
+-- 🔴 Red for expenses
 
 Smooth UI with clean layout
 
@@ -35,26 +35,26 @@ Smooth UI with clean layout
 
 #📈 Real-time NASDAQ Stock Tracking
 
--Powered by Finnhub API (REST)
+- Powered by Finnhub API (REST)
 
--Fetch delayed ~10s NASDAQ stock quotes
+- Fetch delayed ~10s NASDAQ stock quotes
 
--Display price changes, including up/down indicators
+- Display price changes, including up/down indicators
 
--Automatically refreshes and updates the UI
+- Automatically refreshes and updates the UI
 
--Clean stock card components
+- Clean stock card components
 
 ---
 
-#🌐 Modern UI & UX
+# 🌐 Modern UI & UX
 
--Built using:
+- Built using:
 
--TailwindCSS – utility-first beautiful styling
+- TailwindCSS – utility-first beautiful styling
 
--Framer Motion – smooth component animations
+- Framer Motion – smooth component animations
 
--Responsive layout
+- Responsive layout
 
--Clean, minimalist design
+- Clean, minimalist design

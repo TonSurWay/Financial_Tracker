@@ -11,8 +11,6 @@
 
 - View, manage, and delete transactions in a clean history table
 
----
-
 # 📊 Summary Cards
 
 - Total Income
@@ -29,11 +27,9 @@
   
   - 🔴 Red for expenses
 
-Smooth UI with clean layout
+- Smooth UI with clean layout
 
----
-
-#📈 Real-time NASDAQ Stock Tracking
+# 📈 Real-time NASDAQ Stock Tracking
 
 - Powered by Finnhub API (REST)
 

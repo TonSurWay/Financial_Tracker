@@ -1,44 +1,60 @@
-🌟 SurwayTracker – Personal Finance Tracker & NASDAQ Watcher
+#🚀 Features
+-✅ Finance Tracking
 
-SurwayTracker is a modern, responsive finance tracking web application built with React, designed to help users track income & expenses, view real-time NASDAQ stock data, and visualize financial insights.
+-Add Income & Expense records
 
-This project focuses on simplicity, speed, and clean UI/UX—ideal as a personal portfolio project or MVP.
+-Select categories
 
-🚀 Features
-✅ Finance Tracking
+-Add optional descriptions
 
-Add income & expenses
+-Data stored via LocalStorage
 
-Categorize transactions
+-View, manage, and delete transactions in a clean history table
 
-Optional description
+---
 
-LocalStorage persistence
+#📊 Summary Cards
 
-Transaction history table with delete option
+-Total Income
 
-📊 Summary Cards
+-Total Expense
 
-Total Income
+-Net Balance
 
-Total Expense
+-Each card includes:
 
-Net Balance
+-Color-coded indicators
 
-Color-coded UI (green for income, red for expense)
+--🟢 Green for income
 
-📈 Real-time NASDAQ Stock Tracking (Finnhub REST API)
+--🔴 Red for expenses
 
-Fetch stock prices delays 10s
+Smooth UI with clean layout
 
-Display price changes with up/down indicators
+---
 
-Auto-updating UI
+#📈 Real-time NASDAQ Stock Tracking
 
-🌐 UI & UX
+-Powered by Finnhub API (REST)
 
-TailwindCSS for utility-first styling
+-Fetch delayed ~10s NASDAQ stock quotes
 
-Framer Motion animations
+-Display price changes, including up/down indicators
 
-Clean card and table components
+-Automatically refreshes and updates the UI
+
+-Clean stock card components
+
+---
+
+#🌐 Modern UI & UX
+
+-Built using:
+
+-TailwindCSS – utility-first beautiful styling
+
+-Framer Motion – smooth component animations
+
+-Responsive layout
+
+-Clean, minimalist design

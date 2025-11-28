@@ -23,11 +23,11 @@
 
 - Each card includes:
 
--Color-coded indicators
+- Color-coded indicators
 
--- 🟢 Green for income
-
--- 🔴 Red for expenses
+  - 🟢 Green for income
+  
+  - 🔴 Red for expenses
 
 Smooth UI with clean layout
 

@@ -63,7 +63,9 @@ function App() {
       <TransactionForm setTransaction={setTransaction} transaction={transaction} variants={fadeIn}/>
       
       <TransactionHistory setTransaction={setTransaction} transaction={transaction} variants={fadeIn}/>
-
+      <div className='text-center my-6 text-gray-600'>
+        &copy;2025 SurwayTracker. Manage your finances with confidence.
+      </div>
     </>
   )
 }

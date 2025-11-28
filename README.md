@@ -41,8 +41,6 @@
 
 - Clean stock card components
 
----
-
 # 🌐 Modern UI & UX
 
 - Built using:

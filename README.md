@@ -1,3 +1,8 @@
+# 🌟 SurwayTracker – Personal Finance Tracker & NASDAQ Watcher
+
+SurwayTracker is a modern, responsive finance tracking web application built with React, designed to help users track income & expenses, view real-time NASDAQ stock data, and visualize financial insights.
+
+This project focuses on simplicity, speed, and clean UI/UX—ideal as a personal portfolio project or MVP.
 # 🚀 Features
 - ✅ Finance Tracking
 

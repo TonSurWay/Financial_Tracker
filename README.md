@@ -7,25 +7,25 @@ This project focuses on simplicity, speed, and clean UI/UX—ideal as a personal
 # 🚀 Features
 - ✅ Finance Tracking
 
-Add income & expenses
+- Add income & expenses
 
-Categorize transactions
+- Categorize transactions
 
-Optional description
+- Optional description
 
-LocalStorage persistence
+- LocalStorage persistence
 
-Transaction history table with delete option
+- Transaction history table with delete option
 
 # 📊 Summary Cards
 
-Total Income
+- Total Income
 
-Total Expense
+- Total Expense
 
-Net Balance
+- Net Balance
 
-Color-coded UI (green for income, red for expense)
+- Color-coded UI (green for income, red for expense)
 
 # 📈 Real-time NASDAQ Stock Tracking (Finnhub REST API)
 

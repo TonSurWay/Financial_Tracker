@@ -21,7 +21,7 @@ function TransactionForm({ setTransaction, transaction, variants }) {
     const[form, setForm] = useState({
         types: "Expense",
         amount: "",
-        category: "",
+        category: "Food & Dining",
         description: ""
     });
 
@@ -55,7 +55,7 @@ function TransactionForm({ setTransaction, transaction, variants }) {
             setLoading(false)
         }, 2000)
 
-        setForm({ types: "Expense", amount: "", category:"", description: "" });
+        setForm({ types: "Expense", amount: "", category:"Food & Dining", description: "" });
         setShowErrors(false); 
     }
 

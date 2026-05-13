@@ -6,5 +6,5 @@ export default defineConfig({
   plugins: [react(),
     tailwindcss()
   ],
-  base:'/Financial_Tracker/'
+  base:'/Financial_Tracking/'
 })

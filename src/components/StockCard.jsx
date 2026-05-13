@@ -45,7 +45,7 @@ function StockPrice( {symbol = "symbol", variants} ) {
         <h2 className='text-sm text-gray-600'>Change</h2>
         <span className={`text-sm mt-2 font-medium w-fill flex items-center justify-end gap-0.5 ${
           percentChange < 0 ? "text-red-600" : "text-green-600"
-        }`}> {percentChange < 0 ? <TrendingDown size={16}/> : <TrendingUp size={16}/>} ${change} ({percentChange}%)</span>
+        }`}> {percentChange < 0 ? <TrendingDown size={16}/> : <TrendingUp size={16}/>} ${change} ({percentChange.toFixed(2)}%)</span>
       </div>
         
         <div className='flex items-center justify-between'>

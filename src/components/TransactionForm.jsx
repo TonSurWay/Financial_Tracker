@@ -1,13 +1,10 @@
 import { useEffect, useState } from 'react'
-
 // Reusable function
 import { setLocalStorage } from '../utils/localStorage'
 import { formatDate } from '../utils/formatDate';
-
 // Components
 import Inputbox from './Inputbox';
 import Selectbox from './Selectbox';
-
 // Animation
 import { motion } from 'framer-motion';
 
@@ -21,7 +18,7 @@ function TransactionForm({ setTransaction, transaction, variants }) {
     const[form, setForm] = useState({
         types: "Expense",
         amount: "",
-        category: categories["Expense"][0],
+        category: categories[0],
         description: ""
     });
 
@@ -55,7 +52,7 @@ function TransactionForm({ setTransaction, transaction, variants }) {
             setLoading(false)
         }, 2000)
 
-        setForm({ types: "Expense", amount: "", category: categories["Expense"][0], description: "" });
+        setForm({ types: "Expense", amount: "", category: categories[form.types][0], description: "" });
         setShowErrors(false); 
     }
 

@@ -19,7 +19,7 @@ function Navbar() {
     <header className='shadow-md bg-transparent'>
         <nav className='container mx-auto w-full  flex items-center justify-between h-20 px-4 '>
             <Link to='/' className='flex item-center justify-center py-4 text-indigo-500'>
-                <h1 className='sm:text-3xl lg:text-4xl font-bold '>$SurwayTracker</h1>
+                <h1 className='sm:text-3xl lg:text-4xl font-bold '>SurwayTracking</h1>
             </Link>
 
             <button

@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://tonsurway.github.io/Financial_Tracker/",
+  "homepage": "https://tonsurway.github.io/Financial_Tracking/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

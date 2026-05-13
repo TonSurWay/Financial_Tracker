@@ -18,7 +18,7 @@ function TransactionForm({ setTransaction, transaction, variants }) {
     const[form, setForm] = useState({
         types: "Expense",
         amount: "",
-        category: categories["Expense"][0],
+        category: categories.Expense[0],
         description: ""
     });
 
